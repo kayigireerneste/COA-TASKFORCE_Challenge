@@ -53,3 +53,5 @@ index.html of Interactive Photo Gallery in that browser.
 
 to be able to view both projects without checking and cloning the projects code 
 you can use the deployed version link as well as I have deployed it on github deploymeny service, and remember to view the test for both challenges remember to open the console of the browser
+
+```deployment version link:``` https://kayigireerneste.github.io/COA-TASKFORCE_Challenge/
