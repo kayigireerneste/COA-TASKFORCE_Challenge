@@ -48,3 +48,8 @@ If the length of the string is divisible by both 3 and 5 (i.e., divisible by 15)
 ## Setup Instructions
 you can view the test answers in console of your prefered browser after opening Open 
 index.html of Interactive Photo Gallery in that browser.
+
+## conclusion
+
+to be able to view both projects without checking and cloning the projects code 
+you can use the deployed version link as well as I have deployed it on github deploymeny service, and remember to view the test for both challenges remember to open the console of the browser
